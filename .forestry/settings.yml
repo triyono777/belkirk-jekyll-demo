@@ -24,6 +24,8 @@ sections:
   match: "*"
   templates:
   - person
+- type: heading
+  label: download
 - type: directory
   path: _projects
   label: Projects
